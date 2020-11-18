@@ -1,4 +1,3 @@
-# method-React-Redux
 Méthode étape par étape pour une application avec React et Redux.
 
 ## React
